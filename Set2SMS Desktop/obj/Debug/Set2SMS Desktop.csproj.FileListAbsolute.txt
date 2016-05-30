@@ -1,0 +1,9 @@
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\bin\Debug\Set2SMS Desktop.exe.config
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\bin\Debug\Set2SMS Desktop.exe
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\bin\Debug\Set2SMS Desktop.pdb
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\obj\Debug\Set2SMS Desktop.csprojResolveAssemblyReference.cache
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\obj\Debug\Set2SMS_Desktop.mainFrm.resources
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\obj\Debug\Set2SMS_Desktop.Properties.Resources.resources
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\obj\Debug\Set2SMS Desktop.csproj.GenerateResource.Cache
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\obj\Debug\Set2SMS Desktop.exe
+D:\WORK\SET2PAY\C#\Set2SMS Desktop\Set2SMS Desktop\obj\Debug\Set2SMS Desktop.pdb
