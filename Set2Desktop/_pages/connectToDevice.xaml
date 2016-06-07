@@ -1,0 +1,22 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Custom="http://metro.mahapps.com/winfx/xaml/controls" x:Class="Set2Desktop._pages.connectToDevice" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="connectToDevice" Margin="10">
+
+    <Grid>
+        <Rectangle Fill="#FFF4F4F5" Stroke="#FFEAEAEA" RadiusX="5" RadiusY="5" Margin="0,103,0,0" VerticalAlignment="Top" Height="40"/>
+        <Rectangle Fill="#FFF4F4F5" Stroke="#FFEAEAEA" RadiusX="5" RadiusY="5" Margin="0,36,0,224" VerticalAlignment="Top" Height="40"/>
+        <Label Content="Ip address" Margin="0,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ip" Height="23" Margin="5,43,5,0" TextWrapping="Wrap" Text="192.168.0.1" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" CaretBrush="{x:Null}" BorderThickness="0"/>
+        <Label Content="Port" Margin="0,81,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="port" Height="23" Margin="5,110,5,0" TextWrapping="Wrap" Text="8080" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" CaretBrush="{x:Null}" BorderThickness="0"/>
+        <Button x:Name="connect_btn" Content="Connect" HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" Width="76" Click="connect_btn_Click" FocusVisualStyle="{x:Null}" Cursor="Hand"/>
+        <Label x:Name="status" Content="Status..." Margin="0" VerticalAlignment="Bottom"/>
+        <Button x:Name="searchDevices_btn" Content="Search Devices on Network" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" BorderThickness="1" FocusVisualStyle="{x:Null}" Cursor="Hand" Click="searchDevices_btn_Click"/>
+    </Grid>
+</Page>
